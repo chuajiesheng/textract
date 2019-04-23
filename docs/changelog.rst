@@ -15,6 +15,19 @@ latest changes in development for next release
 
   * fixing dependency declarations (`#162`_ by `@lillypad`_)
 
+1.6.2
+-------------------
+
+* remove several extensions to make build simpler
+
+  * wav
+  * ogg
+  * mp3
+  * rtf
+  * ps
+  * msg
+  * gif
+
 
 1.6.1
 -------------------

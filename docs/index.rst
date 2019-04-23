@@ -58,11 +58,7 @@ file types by either mentioning them on the `issue tracker
 
 * ``.html`` and ``.htm`` via `beautifulsoup4`_
 
-* ``.mp3`` via `sox`_, `SpeechRecognition`_, and `pocketsphinx`_
-
 * ``.odt`` via python builtins
-
-* ``.ogg`` via `sox`_, `SpeechRecognition`_, and `pocketsphinx`_
 
 * ``.pdf`` via `pdftotext`_ (default) or `pdfminer.six`_
 
@@ -73,8 +69,6 @@ file types by either mentioning them on the `issue tracker
 * ``.tiff`` and ``.tif`` via `tesseract-ocr`_
 
 * ``.txt`` via python builtins
-
-* ``.wav`` via `SpeechRecognition`_ and `pocketsphinx`_
 
 * ``.xlsx`` via `xlrd <https://pypi.python.org/pypi/xlrd>`_
 
@@ -89,8 +83,6 @@ file types by either mentioning them on the `issue tracker
 .. _pocketsphinx: https://github.com/cmusphinx/pocketsphinx/
 .. _python-docx2txt: https://github.com/ankushshah89/python-docx2txt
 .. _python-pptx: https://python-pptx.readthedocs.org/en/latest/
-.. _SpeechRecognition: https://pypi.python.org/pypi/SpeechRecognition/
-.. _sox: http://sox.sourceforge.net/
 .. _tesseract-ocr: https://code.google.com/p/tesseract-ocr/
 
 .. _related-projects:

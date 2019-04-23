@@ -10,6 +10,4 @@ docx2txt
 beautifulsoup4
 xlrd
 EbookLib
-SpeechRecognition
 six
-pocketsphinx

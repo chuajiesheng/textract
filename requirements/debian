@@ -15,9 +15,6 @@ libxslt1-dev
 # parse word documents
 antiword
 
-# parse rtf documents
-unrtf
-
 # parse image files
 tesseract-ocr
 libjpeg-dev

@@ -22,7 +22,7 @@ package manager before installing textract from pypi.
 
 .. code-block:: bash
 
-    apt-get install python-dev libxml2-dev libxslt1-dev antiword unrtf poppler-utils tesseract-ocr \
+    apt-get install python-dev libxml2-dev libxslt1-dev antiword poppler-utils tesseract-ocr \
     flac ffmpeg lame libmad0 libsox-fmt-mp3 sox libjpeg-dev swig libpulse-dev
     pip install textract
 
@@ -45,7 +45,7 @@ pypi.
 .. code-block:: bash
 
     brew cask install xquartz
-    brew install poppler antiword unrtf tesseract swig
+    brew install poppler antiword tesseract swig
     pip install textract
 
 ..     brew install libxml2 libxslt antiword poppler tesseract

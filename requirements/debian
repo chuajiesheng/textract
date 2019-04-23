@@ -25,9 +25,6 @@ libjpeg-dev
 # parse pdfs
 poppler-utils
 
-# parse postscript files
-pstotext
-
 # parse audio files, with SpeechRecognition
 flac
 

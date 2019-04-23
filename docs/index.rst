@@ -70,8 +70,6 @@ file types by either mentioning them on the `issue tracker
 
 * ``.pptx`` via `python-pptx`_
 
-* ``.ps`` via `ps2text`_
-
 * ``.rtf`` via `unrtf`_
 
 * ``.tiff`` and ``.tif`` via `tesseract-ocr`_
@@ -91,7 +89,6 @@ file types by either mentioning them on the `issue tracker
 .. _pdfminer.six: https://github.com/goulu/pdfminer
 .. _pdftotext: http://poppler.freedesktop.org/
 .. _pocketsphinx: https://github.com/cmusphinx/pocketsphinx/
-.. _ps2text: http://pages.cs.wisc.edu/~ghost/doc/pstotext.htm
 .. _python-docx2txt: https://github.com/ankushshah89/python-docx2txt
 .. _python-pptx: https://python-pptx.readthedocs.org/en/latest/
 .. _SpeechRecognition: https://pypi.python.org/pypi/SpeechRecognition/

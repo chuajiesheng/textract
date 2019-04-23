@@ -58,5 +58,5 @@ setup(
     ],
     install_requires=dependencies,
     dependency_links=dependency_links,
-    zip_safe=False,
+    zip_safe=True,
 )

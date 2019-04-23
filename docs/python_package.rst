@@ -42,7 +42,6 @@ available options that are available to the different types of parsers:
 ======  =========  ===========================================================
 parser  option     description
 ======  =========  ===========================================================
-gif     language   Specify `the language`_ for OCR-ing text with tesseract
 jpg     language   Specify `the language`_ for OCR-ing text with tesseract
 pdf     language   For use when ``method='tesseract'``, specify `the language`_
 pdf     layout     With ``method='pdftotext'`` (default), preserve the layout

@@ -21,7 +21,6 @@ unrtf
 # parse image files
 tesseract-ocr
 libjpeg-dev
-giflib-tools=5.1.1
 
 # parse pdfs
 poppler-utils

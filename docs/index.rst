@@ -52,8 +52,6 @@ file types by either mentioning them on the `issue tracker
 
 * ``.epub`` via `ebooklib`_
 
-* ``.gif`` via `tesseract-ocr`_
-
 * ``.jpg`` and ``.jpeg`` via `tesseract-ocr`_
 
 * ``.json`` via python builtins

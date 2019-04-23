@@ -55,9 +55,6 @@ docs/textract/
 # vagrant
 .vagrant
 
-# ignore big testing files that are dynamically downloaded
-tests/pdf/large.pdf
-
 # ignore raw_text.txt files that are dynamically generated during testing
 tests/png/raw_text.txt
 tests/jpg/raw_text.txt
